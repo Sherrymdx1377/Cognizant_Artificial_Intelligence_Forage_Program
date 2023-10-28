@@ -1,4 +1,4 @@
-# Cognizant-Virtual-Program
+# Cognizant-Artificial-Intelligence-Virtual-Program
 This repository contains the work in the AI engineer Cognizant virtual training and internship program from forage.
 
 Cognizant Artificial Intelligence Job Simulation on Forage - October 2023
